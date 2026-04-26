@@ -1,0 +1,9 @@
+{
+    "values": [
+        "int:_online",
+        "int:_minecart",
+        "int:_trigger",
+        "int:_hp",
+        "int:_prison"
+    ]
+}

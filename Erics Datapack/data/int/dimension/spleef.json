@@ -1,0 +1,11 @@
+{
+    "type": "int:void",
+    "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+            "biome": "int:spleef",
+            "lakes": false,
+            "layers": []
+        }
+    }
+}
