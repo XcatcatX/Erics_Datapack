@@ -1,2 +1,2 @@
 # Erics_Datapack
-Data Pack for Minecraft 26...
+Data Pack for Minecraft
